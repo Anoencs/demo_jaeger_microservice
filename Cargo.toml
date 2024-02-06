@@ -1,0 +1,8 @@
+[workspace]
+members = [
+	"add-service",
+	"mul-service",
+	"app_gateway",
+	"app_proto",
+	"app_cli"
+]
